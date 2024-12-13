@@ -5,12 +5,24 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <style>
+      @keyframes logo {
+	0% {transform: rotate(20deg);}
+	50% {transform: rotate(340deg);}
+      }
+      
+      .animation-logo {
+	animation-name: logo;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+      }
+    </style>
   </head>
   <body>
     <div style="display: flex; justify-content: center;">
       <div>
 	<div style="display: flex; align-items: center;">
-	  <img src="/assets/images/otter-background:white.png" alt="RandyTheOtter" width="80" style="margin-right: 20px;">
+	  <img class="animation-logo" src="/assets/images/otter-background:white.png" alt="RandyTheOtter" width="60" style="margin-right: 20px;">
 	  <div>
 	    <h1> Randy's </h1>
 	    <p>
