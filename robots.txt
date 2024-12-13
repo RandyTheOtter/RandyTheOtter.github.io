@@ -1,0 +1,3 @@
+# Happy crawling!
+User-agent: *
+Disallow:
