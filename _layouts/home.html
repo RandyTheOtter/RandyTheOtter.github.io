@@ -13,7 +13,11 @@
 	  <img src="/assets/images/otter-background:white.png" alt="RandyTheOtter" width="80" style="margin-right: 20px;">
 	  <div>
 	    <h1> Randy's </h1>
-	    <p>get outta my swamp!</p>
+	    <p>
+	    {% assign rid = site.time | hash %}
+	    {% assign phrase = page.phrases | slice: (rid % page.phrases.size) %}
+	    {{ phrase }}
+	    </p>
 	  </div>
 	</div>
 	{{ content }}

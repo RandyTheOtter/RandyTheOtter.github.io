@@ -1,6 +1,10 @@
 ---
 layout: home
 title: "Home"
+phrases:
+  - get outta my swamp!
+  - do barnacles get bored?
+  - no js js club
 ---
 
 Hello! This is my website. I don't really have anything to say here yet.
