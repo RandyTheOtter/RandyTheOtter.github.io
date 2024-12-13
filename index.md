@@ -3,6 +3,8 @@ layout: default
 title: "Home"
 ---
 
+![RandyTheOtter](/assets/images/otter-background:white.png)
+
 Hello! This is my website. I don't really have anything to say here yet.
 
 # Projects
