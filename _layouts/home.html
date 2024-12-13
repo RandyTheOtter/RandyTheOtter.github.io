@@ -14,8 +14,7 @@
 	  <div>
 	    <h1> Randy's </h1>
 	    <p>
-	    {% assign rid = site.time | hash %}
-	    {% assign phrase = page.phrases | slice: (rid % page.phrases.size) %}
+	    {% assign phrase = page.phrases | sample %}
 	    {{ phrase }}
 	    </p>
 	  </div>
