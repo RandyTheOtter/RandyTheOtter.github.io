@@ -16,7 +16,7 @@ Hello! This is my website. I don't really have anything to say here yet.
 
 # Contact
 
-- [mastodon.social](https://mastodon.social/@RandyTheOtter)
+<li><a rel="me" href="https://mastodon.social/@RandyTheOtter">mastodon.social</a></li>
 - [github](https://github.com/RandyTheOtter)
 - [mail](RandyTheOtter@proton.me)
 
