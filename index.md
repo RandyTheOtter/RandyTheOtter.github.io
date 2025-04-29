@@ -21,7 +21,7 @@ Hello! This is my website. I don't really have anything to say here yet.
 
 - <a rel="me" href="https://mastodon.social/@RandyTheOtter">mastodon.social</a>
 - [github](https://github.com/RandyTheOtter)
-- [mail](RandyTheOtter@proton.me)
+- [mail](mailto:RandyTheOtter@proton.me)
 
 # See also
 
