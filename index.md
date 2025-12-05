@@ -7,6 +7,9 @@ phrases:
   - no js js club
   - poggers
 ---
+<!-- vim: set nu rnu sw=4 -->
+
+* * *
 
 Hello! This is my website. I don't really have anything to say here yet.
 

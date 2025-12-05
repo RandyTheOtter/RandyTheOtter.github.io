@@ -1,3 +1,6 @@
 url: "https://randytheotter.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/randys/@pages/" # the subpath of your site, e.g. /blog
 title: "Randy's" # the name of your site, e.g. ACME Corp.
+exclude:
+  - LICENSE
+  - README.md
