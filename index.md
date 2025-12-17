@@ -7,7 +7,7 @@ phrases:
   - no js js club
   - poggers
 ---
-<!-- vim: set nu rnu sw=4 -->
+<!-- vim: set nu rnu sw=4: -->
 
 * * *
 
