@@ -35,8 +35,8 @@ This list is incomplete, and unlikely to ever be. Regardless, you may find some 
 
 ### Donate
 
-- XMR:
-    48UJAwsC1QAfN2ahBB9xKdegZN5sreR2pWLukZm9mgyeMMhz2WSPAKp36utoSLEarqJoFuGcgPc1j3E7Ayd9xLj7KVMwhJe
+XMR:
+48UJAwsC1QAfN2ahBB9xKdegZN5sreR2pWLukZm9mgyeMMhz2WSPAKp36utoSLEarqJoFuGcgPc1j3E7Ayd9xLj7KVMwhJe
 
 # See also
 
