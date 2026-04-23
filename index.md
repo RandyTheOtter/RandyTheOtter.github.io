@@ -23,9 +23,11 @@ Hello! This is my website. I don't really have anything to say here yet.
 
 ### 2. [qubes.taxi](https://otter2.codeberg.page/qubes.taxi/@pages/)
 
-Like [tor.taxi](https://tor.taxi), but for qubes
+Like [tor.taxi](https://tor.taxi), but for qubes. A list of resources produced, maintained, or otherwise related to the qubes community.
 
 This list is incomplete, and unlikely to ever be. Regardless, you may find some interesting websites or projects there! If you know something that can be described as *"a qubes community website / project"* but isn't there, send me a link!
+
+At the moment of writing I'm specifically not including any forum links - they are already relatively easy to discover and hard to lose. qubes.taxi is meant to index the larger Qubes OS community.
 
 ## Contact
 
